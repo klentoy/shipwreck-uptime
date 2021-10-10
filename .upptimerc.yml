@@ -19,8 +19,8 @@ status-website:
   baseUrl: /shipwreck-uptime
   logoUrl: https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.18169-9/10561614_321626321335346_3216717715787967113_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lt2qhMfz370AX-0-4_m&_nc_ht=scontent.fdvo2-1.fna&oh=17faad10e387bbda742449200f5d7060&oe=61861FC9
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**ShipWreckUptime Montior** It's misspelled internationally"
+  introMessage: "It's not **down**, it's a feature"
   navbar:
     - title: Status
       href: /

@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2274,
-    "timeDay": 2274,
-    "timeWeek": 2274,
-    "timeMonth": 2274,
-    "timeYear": 2274,
+    "time": 2316,
+    "timeDay": 2316,
+    "timeWeek": 2316,
+    "timeMonth": 2316,
+    "timeYear": 2316,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1594,
-    "timeDay": 1594,
-    "timeWeek": 1594,
-    "timeMonth": 1594,
-    "timeYear": 1594,
+    "time": 1601,
+    "timeDay": 1601,
+    "timeWeek": 1601,
+    "timeMonth": 1601,
+    "timeYear": 1601,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/thetopcoins2.com",
     "slug": "broke-back-top-coins-tests-only",
     "status": "down",
-    "uptime": "2.30%",
-    "uptimeDay": "2.30%",
-    "uptimeWeek": "2.30%",
-    "uptimeMonth": "2.30%",
-    "uptimeYear": "2.30%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 19
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/thetopcoins3.com",
     "slug": "broke-back-top-coins2-tests-only",
     "status": "down",
-    "uptime": "6.95%",
-    "uptimeDay": "6.95%",
-    "uptimeWeek": "6.95%",
-    "uptimeMonth": "6.95%",
-    "uptimeYear": "6.95%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 18
     }
   }
 ]

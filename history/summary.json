@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2289,
-    "timeDay": 2289,
-    "timeWeek": 2289,
-    "timeMonth": 2289,
-    "timeYear": 2289,
+    "time": 2293,
+    "timeDay": 2293,
+    "timeWeek": 2293,
+    "timeMonth": 2293,
+    "timeYear": 2293,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1621,
-    "timeDay": 1621,
-    "timeWeek": 1621,
-    "timeMonth": 1621,
-    "timeYear": 1621,
+    "time": 1635,
+    "timeDay": 1635,
+    "timeWeek": 1635,
+    "timeMonth": 1635,
+    "timeYear": 1635,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "BrokeBackTopCoins",
+    "url": "http://thetopcoins2.com/",
+    "icon": "https://favicons.githubusercontent.com/thetopcoins2.com",
+    "slug": "broke-back-top-coins",
+    "status": "down",
+    "uptime": "34.28%",
+    "uptimeDay": "34.28%",
+    "uptimeWeek": "34.28%",
+    "uptimeMonth": "34.28%",
+    "uptimeYear": "34.28%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   }
 ]

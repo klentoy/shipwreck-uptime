@@ -7,6 +7,8 @@ sites:
     url: http://thetopcoins.com/
   - name: AList
     url: http://alistpropertygroup.com.au/
+  - name: BrokeBackTopCoins
+    url: http://thetopcoins2.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

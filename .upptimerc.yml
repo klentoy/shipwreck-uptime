@@ -7,8 +7,15 @@ sites:
     url: http://thetopcoins.com/
   - name: AList
     url: http://alistpropertygroup.com.au/
+  - name: BrokeBackTopCoinsTestsOnly
+    url: http://thetopcoins2.com/
+  - name: BrokeBackTopCoins2TestsOnly
+    url: http://thetopcoins3.com/
 
 status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+#   cname: demo.upptime.js.org
   baseUrl: /shipwreck-uptime
   logoUrl: https://scontent.fdvo2-1.fna.fbcdn.net/v/t1.18169-9/10561614_321626321335346_3216717715787967113_n.png?_nc_cat=101&ccb=1-5&_nc_sid=973b4a&_nc_ohc=lt2qhMfz370AX-0-4_m&_nc_ht=scontent.fdvo2-1.fna&oh=17faad10e387bbda742449200f5d7060&oe=61861FC9
   name: Upptime
@@ -19,3 +26,6 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration

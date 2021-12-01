@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/thetopcoins.com",
     "slug": "top-coins",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2309,
-    "timeDay": 1867,
-    "timeWeek": 2178,
-    "timeMonth": 2252,
+    "timeDay": 2075,
+    "timeWeek": 2123,
+    "timeMonth": 2291,
     "timeYear": 2309,
-    "dailyMinutesDown": {
-      "2021-11-30": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AList",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1939,
-    "timeDay": 2118,
-    "timeWeek": 3783,
-    "timeMonth": 2535,
-    "timeYear": 1939,
+    "time": 1933,
+    "timeDay": 1654,
+    "timeWeek": 3642,
+    "timeMonth": 2626,
+    "timeYear": 1933,
     "dailyMinutesDown": {}
   }
 ]

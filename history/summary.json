@@ -4,9 +4,9 @@
     "url": "http://thetopcoins.com/",
     "icon": "https://favicons.githubusercontent.com/thetopcoins.com",
     "slug": "top-coins",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2346,
     "timeMonth": 2204,
     "timeYear": 2292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-12": 0
+    }
   },
   {
     "name": "AList",

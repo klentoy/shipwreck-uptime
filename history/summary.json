@@ -6,17 +6,16 @@
     "slug": "top-coins",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.95%",
-    "time": 2258,
-    "timeDay": 2033,
-    "timeWeek": 2058,
-    "timeMonth": 2150,
-    "timeYear": 2258,
+    "time": 2261,
+    "timeDay": 2227,
+    "timeWeek": 2065,
+    "timeMonth": 2165,
+    "timeYear": 2261,
     "dailyMinutesDown": {
-      "2021-12-26": 9,
       "2021-12-17": 35,
       "2021-12-12": 16
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2585,
-    "timeDay": 6000,
-    "timeWeek": 4000,
-    "timeMonth": 3771,
-    "timeYear": 2585,
+    "time": 2629,
+    "timeDay": 5806,
+    "timeWeek": 4234,
+    "timeMonth": 3834,
+    "timeYear": 2629,
     "dailyMinutesDown": {}
   }
 ]

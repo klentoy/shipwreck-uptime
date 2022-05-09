@@ -28,19 +28,19 @@
     "url": "http://alistpropertygroup.com.au/",
     "icon": "https://favicons.githubusercontent.com/alistpropertygroup.com.au",
     "slug": "a-list",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3644,
-    "timeDay": 4202,
-    "timeWeek": 4757,
-    "timeMonth": 4631,
-    "timeYear": 3644,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.77%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
+    "time": 3647,
+    "timeDay": 4244,
+    "timeWeek": 4698,
+    "timeMonth": 4620,
+    "timeYear": 3647,
     "dailyMinutesDown": {
-      "2022-05-09": 0
+      "2022-05-09": 61
     }
   }
 ]
